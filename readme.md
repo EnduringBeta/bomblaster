@@ -1,6 +1,6 @@
 # Bomblaster - Chrome Extension
 
-Don't like 'bombastic' used for describing games with explosions? Replace with 'bomblastic' on Polygon and Kotaku!
+Don't like 'bombastic' used for describing explosive games? Replace with 'bomblastic' on Polygon and Kotaku!
 
 Inspired by [episode 88 of the podcast Triple Click](https://maximumfun.org/episodes/triple-click/will-ready-player-one-ever-be-real/) where, about 37 minutes in, Jason Schreier complains about video game journalists' tendency to use "bombastic" to describe explosion-filled games, which is distant from its prior meaning about language and diction.
 

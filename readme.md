@@ -6,6 +6,11 @@ Inspired by [episode 88 of the podcast Triple Click](https://maximumfun.org/epis
 
 To be clear, this is a joke extension, but perhaps it can bring you joy by quietly changing a word and surprising you one day.
 
+# Examples
+
+* https://www.polygon.com/2015/2/2/7962627/bombastic-new-just-cause-3-screens-parachute-onto-the-internet
+* https://kotaku.com/bombastic-developer-details-new-twisted-metal-5581333
+
 # Attribution
 
 Explosion icon modified from [Flaticon](https://www.flaticon.com/free-icon/explosion_616666?term=explod&related_id=616666)

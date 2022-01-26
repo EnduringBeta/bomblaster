@@ -1,0 +1,34 @@
+{
+  "name": "Bomblaster",
+  "description": "Don't like 'bombastic' used for describing games with explosions? Replace with 'bomblastic' on Polygon and Kotaku! Inspired by Triple Click.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.polygon.com/*",
+        "https://*.kotaku.com/*"
+      ],
+      "js": ["content-script.js"]
+    }
+  ],
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "options-popup.html",
+    "default_icon": {
+      "16": "images/bomblaster-16.png",
+      "32": "images/bomblaster-32.png",
+      "48": "images/bomblaster-48.png",
+      "128": "images/bomblaster-128.png"
+    }
+  },
+  "icons": {
+    "16": "images/bomblaster-16.png",
+    "32": "images/bomblaster-32.png",
+    "48": "images/bomblaster-48.png",
+    "128": "images/bomblaster-128.png"
+  }
+}

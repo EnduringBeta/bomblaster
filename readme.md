@@ -10,6 +10,7 @@ To be clear, this is a joke extension, but perhaps it can bring you joy by quiet
 
 * https://www.polygon.com/2015/2/2/7962627/bombastic-new-just-cause-3-screens-parachute-onto-the-internet
 * https://kotaku.com/bombastic-developer-details-new-twisted-metal-5581333
+* https://www.callofduty.com/blog/2022/06/call-of-duty-modern-warfare-II-introduction-new-era-infinity-ward
 
 # Attribution
 

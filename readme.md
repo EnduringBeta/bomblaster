@@ -6,6 +6,12 @@ Inspired by [episode 88 of the podcast Triple Click](https://maximumfun.org/epis
 
 To be clear, this is a joke extension, but perhaps it can bring you joy by quietly changing a word and surprising you one day.
 
+# Notes
+
+* Publishing
+  * https://support.google.com/chrome/a/answer/2714278?hl=en
+  * https://developer.chrome.com/docs/webstore/publish/
+
 # Examples
 
 * https://www.polygon.com/2015/2/2/7962627/bombastic-new-just-cause-3-screens-parachute-onto-the-internet
